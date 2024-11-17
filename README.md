@@ -53,6 +53,8 @@
           <br>
           <b>Tailwind</b>
         </td>
+      </tr>
+      <tr>
         <td align="center" width="100">
           <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="java logo" />
           <br>
