@@ -16,13 +16,25 @@
         <td align="center" width="100">
           <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="html5 logo" />
           <br>
-          <b>HTML</b>
+          <b>HTML5</b>
         </td>
         <td align="center" width="100">
           <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="css3 logo" />
           <br>
-          <b>CSS</b>
+          <b>CSS3</b>
         </td>
+        <td align="center" width="100">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="react logo" />
+          <br>
+          <b>React</b>
+        </td>
+        <td align="center" width="100">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="tailwindcss logo" />
+          <br>
+          <b>Tailwind</b>
+        </td>
+      </tr>
+      <tr>
         <td align="center" width="100">
           <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="python logo" />
           <br>
@@ -39,31 +51,21 @@
           <b>Flask</b>
         </td>
         <td align="center" width="100">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="javascript logo" />
-          <br>
-          <b>JavaScript</b>
-        </td>
-        <td align="center" width="100">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="react logo" />
-          <br>
-          <b>React</b>
-        </td>
-        <td align="center" width="100">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="tailwindcss logo" />
-          <br>
-          <b>Tailwind</b>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="100">
           <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="java logo" />
           <br>
           <b>Java</b>
         </td>
+      </tr>
+      <tr>
         <td align="center" width="100">
-          <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="vscode logo" />
+          <img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50" alt="kotlin logo" />
           <br>
-          <b>VS Code</b>
+          <b>Kotlin</b>
+        </td>
+        <td align="center" width="100">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="javascript logo" />
+          <br>
+          <b>JavaScript</b>
         </td>
         <td align="center" width="100">
           <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="git logo" />
@@ -71,29 +73,9 @@
           <b>Git</b>
         </td>
         <td align="center" width="100">
-          <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="github logo" />
-          <br>
-          <b>GitHub</b>
-        </td>
-        <td align="center" width="100">
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="mysql logo" />
           <br>
           <b>MySQL</b>
-        </td>
-        <td align="center" width="100">
-          <img src="https://skillicons.dev/icons?i=androidstudio" width="50" height="50" alt="androidstudio logo" />
-          <br>
-          <b>AndroidStudio</b>
-        </td>
-        <td align="center" width="100">
-          <img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50" alt="kotlin logo" />
-          <br>
-          <b>Kotlin</b>
-        </td>
-        <td align="center" width="100">
-          <img src="https://skillicons.dev/icons?i=ps" width="50" height="50" alt="adobephotoshop logo" />
-          <br>
-          <b>Photoshop</b>
         </td>
       </tr>
     </table>
