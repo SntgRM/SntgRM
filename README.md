@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm Santiago Rodriguez, I'm 17 years old and I'm a fullstack and mobile developer in training with experience in graphic design. I am currently studying Software Analysis and Development at SENA. I specialize in various technologies, which allows me to innovate and provide solutions in various projects. My experience covers both web and mobile application development, and my ability to learn and adapt allows me to move forward and continue innovating in each challenge.</h4>
+<h4 align="left">I'm Santiago Rodriguez, I'm a fullstack and mobile developer in training with freelance experience in graphic design. I am currently studying Software Analysis and Development at SENA. I specialize in various technologies, which allows me to innovate and provide solutions in various projects. My experience covers both web and mobile application development, and my ability to learn and adapt allows me to progress and continue overcoming every challenge.</h4>
 
 ###
 <div align="center">
