@@ -6,7 +6,7 @@
 
 ###
 <div align="center">
-  <img height="150" src="https://media.tenor.com/ZQndYO4NwBcAAAAM/gojo-satoru.gif"  />
+  <img height="150" src="https://media.tenor.com/2z7NVAVjM_YAAAAM/guts-berserk.gif"  />
 </div>
 
 ###
