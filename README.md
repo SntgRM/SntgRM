@@ -98,3 +98,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SntgRM&theme=github_dark" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SntgRM&theme=github_dark&utcOffset=-5" height="180em" />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://moe-counter.glitch.me/get/@SntgRM?theme=rule34" />
+</div>
