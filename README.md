@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm Santiago Rodriguez, I'm a fullstack and mobile developer in training with freelance experience in graphic design. I am currently studying Software Analysis and Development at SENA. I specialize in various technologies, which allows me to innovate and provide solutions in various projects. My experience covers both web and mobile application development, and my ability to learn and adapt allows me to progress and continue overcoming every challenge.</h4>
+<h4 align="left">I am Santiago Rodríguez, a full-stack and mobile developer in training, with freelance experience in graphic design. I specialize in a wide variety of technologies, which allows me to innovate and offer effective solutions in diverse projects. My experience encompasses both full-stack web and mobile application development, and my ability to adapt and constant desire to learn allow me to continue growing and successfully overcome each new challenge.</h4>
 
 ###
 <div align="center">
