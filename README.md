@@ -18,66 +18,66 @@
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
       <tr>
-        <td align="center" width="100">
+        <td align="center" width="120">
           <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="html5 logo" />
           <br>
           <b>HTML5</b>
         </td>
-        <td align="center" width="100">
+        <td align="center" width="120">
           <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="css3 logo" />
           <br>
           <b>CSS3</b>
         </td>
-        <td align="center" width="100">
+        <td align="center" width="120">
           <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="react logo" />
           <br>
           <b>React</b>
         </td>
-        <td align="center" width="100">
+        <td align="center" width="120">
           <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="tailwindcss logo" />
           <br>
           <b>Tailwind</b>
         </td>
       </tr>
       <tr>
-        <td align="center" width="100">
+        <td align="center" width="120">
           <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="python logo" />
           <br>
           <b>Python</b>
         </td>
-        <td align="center" width="100">
+        <td align="center" width="120">
           <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="django logo" />
           <br>
           <b>Django</b>
         </td>
-        <td align="center" width="100">
+        <td align="center" width="120">
           <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="flask logo" />
           <br>
           <b>Flask</b>
         </td>
-        <td align="center" width="100">
-          <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="java logo" />
+        <td align="center" width="120">
+          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" alt="restapi logo" />
           <br>
-          <b>Java</b>
+          <b>Rest API</b>
         </td>
       </tr>
       <tr>
-        <td align="center" width="100">
-          <img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50" alt="kotlin logo" />
+        <td align="center" width="120">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="docker logo" />
           <br>
-          <b>Kotlin</b>
+          <b>Docker</b>
         </td>
-        <td align="center" width="100">
+        <td align="center" width="120">
           <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="javascript logo" />
           <br>
           <b>JavaScript</b>
         </td>
-        <td align="center" width="100">
-          <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="git logo" />
+        <td align="center" width="120">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="git-github logo" />
           <br>
-          <b>Git</b>
+          <b>Git - GitHub</b>
         </td>
-        <td align="center" width="100">
+        <td align="center" width="120">
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="mysql logo" />
           <br>
           <b>MySQL</b>
