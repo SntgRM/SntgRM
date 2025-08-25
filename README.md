@@ -75,7 +75,7 @@
         <td align="center" width="120">
           <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="git-github logo" />
           <br>
-          <b>Git - GitHub</b>
+          <b>Git/GitHub</b>
         </td>
         <td align="center" width="120">
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="mysql logo" />
@@ -93,13 +93,15 @@
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SntgRM&theme=github_dark" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SntgRM&theme=github_dark" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SntgRM&theme=github_dark" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SntgRM&theme=github_dark&utcOffset=-5" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SntgRM&theme=dark" height="165em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SntgRM&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 ###
+
+<div align="center">
+  <h2>👀​ Visualizations </h3>
+</div>
 
 <div align="center">
   <img src="https://moe-counter.glitch.me/get/@SntgRM?theme=rule34" />
