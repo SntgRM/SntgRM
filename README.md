@@ -135,8 +135,8 @@
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SntgRM&theme=react" height="165em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SntgRM&theme=react&show_icons=true&hide_border=true&layout=compact" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SntgRM&theme=react&cache_seconds=3600" height="165em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SntgRM&theme=react&show_icons=true&hide_border=true&layout=compact&cache_seconds=43200" />
 </div>
 
 ###
