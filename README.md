@@ -1,12 +1,17 @@
-<h2 align="center">What's up?👋! I'm Santiago RM 👨🏻‍💻</h2>
+<h2 align="center">👋 Hey, I'm Santiago Rodríguez (SntgRM)</h2>
 
 ###
 
-<h4 align="left">I am Santiago Rodríguez, a full-stack and mobile developer in training, with freelance experience in graphic design. I specialize in a wide variety of technologies, which allows me to innovate and offer effective solutions in diverse projects. My experience encompasses both full-stack web and mobile application development, and my ability to adapt and constant desire to learn allow me to continue growing and successfully overcome each new challenge.</h4>
+
+<h4 align="cente">I’m Santiago Rodríguez, a Junior Full-Stack and Mobile Developer. I enjoy building apps and websites from scratch, turning ideas into real solutions. My main focus is on React and Django, and I’m committed to keep growing as a self-taught developer while gaining visibility in the community. My goal is to keep pushing myself with bigger and more innovative projects, taking my passion for programming to the next level.</h4>
 
 ###
 <div align="center">
   <img height="150" src="https://media.tenor.com/2z7NVAVjM_YAAAAM/guts-berserk.gif"  />
+</div>
+
+<div align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=30&duration=3000&pause=1000&color=bcbcbc&center=true&vCenter=true&random=false&width=900&lines=python+manage.py+runserver+->+Starting+new+journey;Django+%2B+React+=+Fullstack+magic;Building+APIs+that+React+loves;render(%22ideas%22)+->+turn+into+projects;useEffect(()+%3D%3E+{+keepLearning();+},+[]);Coding...+Debugging...+Leveling+Up" alt="Typing SVG" />
 </div>
 
 ###
