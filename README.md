@@ -11,7 +11,7 @@
 </div>
 
 <div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=30&duration=3000&pause=1000&color=bcbcbc&center=true&vCenter=true&random=false&width=900&lines=python+manage.py+runserver+->+Starting+new+journey;Django+%2B+React+=+Fullstack+magic;Building+APIs+that+React+loves;render(%22ideas%22)+->+turn+into+projects;useEffect(()+%3D%3E+{+keepLearning();+},+[]);Coding...+Debugging...+Leveling+Up" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=30&duration=3000&pause=1000&color=bcbcbc&center=true&vCenter=true&random=false&width=900&lines=python+manage.py+runserver+->+Starting+new+journey;Django+%2B+React+=+Fullstack+magic;Building+APIs+that+React+loves;render(%22ideas%22)+->+turn+into+projects;useEffect(()+%3D%3E+{+keepLearning()+},+[]);Coding...+Debugging...+Leveling+Up" alt="Typing SVG" />
 </div>
 
 ###
