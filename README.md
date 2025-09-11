@@ -3,21 +3,12 @@
 ###
 
 
-<h4 align="cente">I’m Santiago Rodríguez, a Junior Full-Stack and Mobile Developer. I enjoy building apps and websites from scratch, turning ideas into real solutions. My main focus is on React and Django, and I’m committed to keep growing as a self-taught developer while gaining visibility in the community. My goal is to keep pushing myself with bigger and more innovative projects, taking my passion for programming to the next level.</h4>
-
-###
-<div align="center">
-  <img height="150" src="https://media.tenor.com/2z7NVAVjM_YAAAAM/guts-berserk.gif"  />
-</div>
-
-<div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=30&duration=3000&pause=1000&color=bcbcbc&center=true&vCenter=true&random=false&width=900&lines=python+manage.py+runserver+->+Starting+new+journey;Django+%2B+React+=+Fullstack+magic;Building+APIs+that+React+loves;render(%22ideas%22)+->+turn+into+projects;useEffect(()+%3D%3E+{+keepLearning()+},+[]);Coding...+Debugging...+Leveling+Up" alt="Typing SVG" />
-</div>
+<h4 align="center style=">I’m Santiago Rodríguez, a Junior Full-Stack and Mobile Developer. I enjoy building apps and websites from scratch, turning ideas into real solutions. My main focus is on React and Django, and I’m committed to keep growing as a self-taught developer while gaining visibility in the community. My goal is to keep pushing myself with bigger and more innovative projects, taking my passion for programming to the next level.</h4>
 
 ###
 
 <div align="center">
-  <h2>⚙️ The technologies I currently use are: </h2>
+  <h1>⚙️ The technologies I currently use are: </h1>
 </div>
 
 <!-- Backend Stack -->
@@ -131,7 +122,7 @@
 ###
 
 <div align="center">
-  <h2>📊​ Statistics </h2>
+  <h1>📊​ Statistics </h1>
 </div>
 
 <div align="center">
@@ -142,7 +133,7 @@
 ###
 
 <div align="center">
-  <h2>👀​ Visualizations </h2>
+  <h1>👀​ Visualizations </h1>
 </div>
 
 <div align="center">
