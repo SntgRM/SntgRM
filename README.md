@@ -3,7 +3,7 @@
 ###
 
 
-<h4 align="center style=">I’m Santiago Rodríguez, a Junior Full-Stack and Mobile Developer. I enjoy building apps and websites from scratch, turning ideas into real solutions. My main focus is on React and Django, and I’m committed to keep growing as a self-taught developer while gaining visibility in the community. My goal is to keep pushing myself with bigger and more innovative projects, taking my passion for programming to the next level.</h4>
+<h4 align="center">I’m Santiago Rodríguez, a Junior Full-Stack and Mobile Developer. I enjoy building apps and websites from scratch, turning ideas into real solutions. My main focus is on React and Django, and I’m committed to keep growing as a self-taught developer while gaining visibility in the community. My goal is to keep pushing myself with bigger and more innovative projects, taking my passion for programming to the next level.</h4>
 
 ###
 
