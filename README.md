@@ -3,7 +3,7 @@
 ###
 
 
-<h4 align="center">I’m Santiago Rodríguez, a Junior Full-Stack and Mobile Developer. I enjoy building apps and websites from scratch, turning ideas into real solutions. My main focus is on React and Django, and I’m committed to keep growing as a self-taught developer while gaining visibility in the community. My goal is to keep pushing myself with bigger and more innovative projects, taking my passion for programming to the next level.</h4>
+<h4 align="center">I’m a Junior Full-Stack Developer. I enjoy building apps and websites from scratch, turning ideas into real solutions. My main focus is on React and Django, and I’m committed to keep growing as a self-taught developer while gaining visibility in the community. My goal is to keep pushing myself with bigger and more innovative projects, taking my passion for programming to the next level.</h4>
 
 ###
 
@@ -13,7 +13,7 @@
 
 <!-- Backend Stack -->
 <div align="center">
-  <h3>Backend Stack 🛠️</h3>
+  <h3>Backend 🛠️</h3>
   <table>
     <tr>
       <td align="center" width="120">
@@ -42,7 +42,7 @@
 
 <!-- Frontend Stack -->
 <div align="center">
-  <h3>Frontend Stack 🎨</h3>
+  <h3>Frontend 🎨</h3>
   <table>
     <tr>
       <td align="center" width="120">
@@ -64,31 +64,6 @@
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="css3 logo" />
         <br><b>CSS3</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Mobile Development -->
-<div align="center">
-  <h3>Mobile Development 📱</h3>
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="java logo"" />
-        <br><b>Java</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50" alt="kotlin logo" />
-        <br><b>Kotlin</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="firebase logo" />
-        <br><b>Firebase</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="50" height="50" alt="androidstudio logo" />
-        <br><b>Android Studio</b>
       </td>
     </tr>
   </table>
