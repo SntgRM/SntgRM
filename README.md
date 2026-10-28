@@ -3,7 +3,7 @@
 ###
 
 
-<h4 align="center">I’m a Junior Full-Stack Developer. I enjoy building apps and websites from scratch, turning ideas into real solutions. My main focus is on React and Django, and I’m committed to keep growing as a self-taught developer while gaining visibility in the community. My goal is to keep pushing myself with bigger and more innovative projects, taking my passion for programming to the next level.</h4>
+<h4 align="center">I’m a Full-Stack Developer who enjoys turning ideas into real, functional products. I work primarily with React and Django, building web applications that combine intuitive user experiences with reliable backend solutions. I’m passionate about solving problems through code, exploring new technologies, and creating projects that are both useful and well-built. I believe in growing through hands-on experience, challenging myself with new ideas, and building software that makes a difference.</h4>
 
 ###
 
